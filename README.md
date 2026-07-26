@@ -1,26 +1,31 @@
 <div align="center">
 
 # Im Boravath
-### Software Engineer & Quantitative Developer
-
-Building high-performance desktop applications, system tools, and automated backtesting models.
+### Software Engineer | Designer | IT Supporter | AI Architect
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DaemonAchero&color=009688&style=flat-square)](https://github.com/DaemonAchero)
-[![Portfolio Website](https://img.shields.io/badge/Website-imboravath.vercel.app-blue?style=flat-square&logo=vercel)](https://imboravath.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-imboravath.vercel.app-blue?style=flat-square&logo=vercel)](https://imboravath.vercel.app/)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a software engineer focused on building resilient desktop applications, scalable backend logic, and quantitative execution systems. My work centers around practical, low-overhead software architecture, high-frequency data collection, and rigorously backtested financial logic.
-
-* **Core Focus:** Systems engineering, web automation, client-side/local execution, and quantitative price-action modeling.
-* **Engineering Philosophy:** Clean execution, minimal dependency overhead, and data-driven verification over assumptions.
+Clean, minimalist, full-stack development. Figma design. IT support. AI architecture.
 
 ---
 
-## Technical Stack
+## Stack
 
-**Languages & Core Systems:**
+HTML, CSS, Tailwind, Bootstrap, React, Vue, Next.js, Nuxt, Qwik, Swiper, Lenis, GSAP, JavaScript, Express, Node.js, Python, PHP, Laravel, TypeScript, MySQL, PostgreSQL, MongoDB, Firebase, Supabase, Vercel, Netlify, Docker, Figma, Adobe Photoshop, and AI Integration & Workflow Optimization
+
+---
+
+## Focus
+
+Full-stack web & mobile apps. AI integration. Clean design. IT systems.
+
+---
+
+*Clean execution. Minimal dependency. Data-driven.*
