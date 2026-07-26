@@ -2,8 +2,12 @@
 
 # Im Boravath
 ### Software Engineer | Designer | IT Supporter | AI Architect
-
-`● online` &nbsp;•&nbsp; [imboravath.vercel.app](https://imboravath.vercel.app/) &nbsp;•&nbsp; `views:` <img src="https://komarev.com/ghpvc/?username=DaemonAchero&color=19de0b&style=flat-square" align="center" />
+<p align="center">
+  Portfolio: 
+  <a href="https://imboravath.vercel.app/" align="middle">imboravath.vercel.app</a> 
+  &nbsp;•&nbsp; 
+  <img src="https://komarev.com/ghpvc/?username=DaemonAchero&color=19de0b&style=flat-square&labelColor=111111" align="center" />
+</p>
 
 </div>
 
