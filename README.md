@@ -6,7 +6,6 @@
 <a href="https://github.com/DaemonAchero">
   <img src="https://komarev.com/ghpvc/?username=DaemonAchero&color=19de0b&style=for-the-badge&labelColor=111111" alt="Profile Views" />
 </a>
-<img src="https://raw.githubusercontent.com/yurijcs/yurijcs/main/assets/space.png" width="8" height="1" />
 <a href="https://imboravath.vercel.app/">
   <img src="https://img.shields.io/badge/Website-imboravath.vercel.app-19de0b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Website" />
 </a>
