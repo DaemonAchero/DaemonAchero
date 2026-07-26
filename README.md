@@ -3,12 +3,7 @@
 # Im Boravath
 ### Software Engineer | Designer | IT Supporter | AI Architect
 
-<a href="https://github.com/DaemonAchero">
-  <img src="https://komarev.com/ghpvc/?username=DaemonAchero&color=19de0b&style=for-the-badge&labelColor=111111" alt="Profile Views" />
-</a>
-<a href="https://imboravath.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-imboravath.vercel.app-19de0b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Website" />
-</a>
+`● online` &nbsp;•&nbsp; [imboravath.vercel.app](https://imboravath.vercel.app/) &nbsp;•&nbsp; `views:` <img src="https://komarev.com/ghpvc/?username=DaemonAchero&color=19de0b&style=flat-square" align="center" />
 
 </div>
 
