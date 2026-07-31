@@ -1,7 +1,7 @@
 <div align="center">
 
 # Im Boravath
-### Software Engineer | Designer | IT Supporter | AI Architect
+### Software Engineer | Designer | AI Architect
 <p align="center">
   Portfolio: 
   <a href="https://imboravath.vercel.app/" align="middle">imboravath.vercel.app</a> 
